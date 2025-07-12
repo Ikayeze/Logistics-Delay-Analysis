@@ -1,2 +1,2 @@
 # Logistics-Delay-Analysis
-Surface Analysis to identify delays and  business inefficiencies faced by streamline logistics company.
+Surface Analysis to identify delays and  business inefficiencies faced by streamline logistics company.tool used is microsoft Excel.
